@@ -10,7 +10,7 @@
 
 - [Akshi Chaudhary](https://github.com/akshi8)
 - [Xin (Alex) Guo](https://github.ubc.ca/alexguox)
-- [Cem Sinan Ozturk](https://github.ubc.ca/cemsinan)
+- [Cem Sinan Ozturk](https://github.com/cemsinano)
 
 	- **This survey was created using [Google Forms](https://www.google.ca/forms/about/) and can be found [here](https://goo.gl/forms/RnSzp6LJHi78rYhF2).**
 
